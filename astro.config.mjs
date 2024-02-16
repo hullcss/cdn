@@ -8,5 +8,5 @@ export default defineConfig({
   output: "server",
   adapter: cloudflare(),
   integrations: [sitemap()],
-  site: "https://proot.dev"
+  site: "https://hullcss.org"
 });
