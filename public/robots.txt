@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /
 Allow: /$
 
-Sitemap: https://proot.dev/sitemap-index.xml
+Sitemap: https://hullcss.org/sitemap-index.xml
